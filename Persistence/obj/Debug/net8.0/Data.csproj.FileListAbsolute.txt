@@ -1,0 +1,5 @@
+C:\Users\lucas.severino\Desktop\API\RRS_ERPFenix\RRS_ERPFenix\Persistence\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\lucas.severino\Desktop\API\RRS_ERPFenix\RRS_ERPFenix\Persistence\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.severino\Desktop\API\RRS_ERPFenix\RRS_ERPFenix\Persistence\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\lucas.severino\Desktop\API\RRS_ERPFenix\RRS_ERPFenix\Persistence\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\lucas.severino\Desktop\API\RRS_ERPFenix\RRS_ERPFenix\Persistence\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache

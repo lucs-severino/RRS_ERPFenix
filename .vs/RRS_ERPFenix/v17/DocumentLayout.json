@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|c:\\projetoerp\\rrs_erpfenix\\rrs_erpfenix\\domain\\entities\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|c:\\projetoerp\\rrs_erpfenix\\rrs_erpfenix\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|c:\\projetoerp\\rrs_erpfenix\\rrs_erpfenix\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|c:\\projetoerp\\rrs_erpfenix\\rrs_erpfenix\\domain\\interfaces\\ibancorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB6D116-D0DE-47EF-A7D9-481991EF75B2}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibancorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Entities\\Banco.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Banco.cs",
+              "ToolTip": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Entities\\Banco.cs",
+              "RelativeToolTip": "Domain\\Entities\\Banco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:03:07.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:03:04.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:58:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBancoRepository.cs",
+              "DocumentMoniker": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Interfaces\\IBancoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBancoRepository.cs",
+              "ToolTip": "C:\\ProjetoERP\\RRS_ERPFenix\\RRS_ERPFenix\\Domain\\Interfaces\\IBancoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBancoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:53:02.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
